@@ -1187,7 +1187,7 @@ GameObject:
   - component: {fileID: 767732784}
   - component: {fileID: 767732787}
   - component: {fileID: 767732786}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: LevelLoader
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1274,7 +1274,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   iLevelToLoad: 0
-  sLevelToLoad: 
+  sLevelToLoad: NextLevel
   useIntegerToLoadLevel: 0
 --- !u!61 &767732787
 BoxCollider2D:
@@ -26653,11 +26653,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3572433774687104537, guid: 1f5233de930abd94c900b8c9211ec479, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -12.61
+      value: -12.83
       objectReference: {fileID: 0}
     - target: {fileID: 3572433774687104537, guid: 1f5233de930abd94c900b8c9211ec479, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 2.69
+      value: -2.09
       objectReference: {fileID: 0}
     - target: {fileID: 3572433774687104537, guid: 1f5233de930abd94c900b8c9211ec479, type: 3}
       propertyPath: m_LocalPosition.z

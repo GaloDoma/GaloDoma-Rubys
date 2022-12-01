@@ -27,7 +27,7 @@ public class LevelLoad : MonoBehaviour
     {
         GameObject collisionGameObject = collision.gameObject;
 
-        if(collisionGameObject.name == "Player")
+        if(collisionGameObject.name == "Ruby")
         {
             LoadScene();
         }
