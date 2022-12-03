@@ -102,7 +102,7 @@ MonoBehaviour:
   Waypoints:
   - {fileID: 0}
   - {fileID: 0}
-  SawSpeed: 3
+  SawSpeed: 4
   RotateSpeed: 2
 --- !u!58 &9168417081879452071
 CircleCollider2D:
